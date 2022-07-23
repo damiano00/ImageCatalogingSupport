@@ -1,0 +1,26 @@
+<annotation>
+	<folder>faces</folder>
+	<filename>face_19_3220639156.jpg</filename>
+	<path>C:\Users\matte\Documents\Università\GroupProject\ImageCatalogingSupport\Tensorflow\workspace\images\collectedimages\faces\face_19_3220639156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>479</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>70</ymin>
+			<xmax>380</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>
