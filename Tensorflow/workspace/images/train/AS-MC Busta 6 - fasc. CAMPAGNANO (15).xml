@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stamps</folder>
+	<filename>AS-MC Busta 6 - fasc. CAMPAGNANO (15).jpg</filename>
+	<path>C:\Users\matte\Documents\Università\GroupProject\ImageCatalogingSupport\Tensorflow\workspace\images\collectedimages\stamps\AS-MC Busta 6 - fasc. CAMPAGNANO (15).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2302</width>
+		<height>3154</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>880</xmin>
+			<ymin>442</ymin>
+			<xmax>1270</xmax>
+			<ymax>825</ymax>
+		</bndbox>
+	</object>
+</annotation>

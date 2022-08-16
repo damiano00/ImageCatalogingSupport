@@ -1,0 +1,38 @@
+<annotation>
+	<folder>stamps</folder>
+	<filename>AS-MC Busta 9 fasc. JAEGER (35).jpg</filename>
+	<path>C:\Users\matte\Documents\Università\GroupProject\ImageCatalogingSupport\Tensorflow\workspace\images\collectedimages\stamps\AS-MC Busta 9 fasc. JAEGER (35).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2248</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1438</xmin>
+			<ymin>1251</ymin>
+			<xmax>1934</xmax>
+			<ymax>1573</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1578</xmin>
+			<ymin>1664</ymin>
+			<xmax>1851</xmax>
+			<ymax>1934</ymax>
+		</bndbox>
+	</object>
+</annotation>
