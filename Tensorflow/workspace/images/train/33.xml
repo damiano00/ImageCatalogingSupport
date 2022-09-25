@@ -1,0 +1,26 @@
+<annotation>
+	<folder>faces</folder>
+	<filename>33.jpg</filename>
+	<path>C:\Users\matte\Documents\Università\GroupProject\ImageCatalogingSupport\Tensorflow\workspace\images\collectedimages\faces\33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>779</width>
+		<height>858</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>344</ymin>
+			<xmax>602</xmax>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+</annotation>
