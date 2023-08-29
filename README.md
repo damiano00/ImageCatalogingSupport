@@ -1,5 +1,5 @@
 # ImageCatalogingSupport
-This is a group project to realize an app to support images cataloging through face recognition AI.
+This is a group project to realize an app to support image cataloguing through face recognition AI.
 
 ![Group_Project_Relazione-01](https://user-images.githubusercontent.com/85172755/202025872-c2268db3-2e9b-4ec1-9250-70296ebc3a36.jpg)
 ![Group_Project_Relazione-02](https://user-images.githubusercontent.com/85172755/202025919-4ac2576f-8ea3-40f6-9623-ae66b2b1a925.jpg)
